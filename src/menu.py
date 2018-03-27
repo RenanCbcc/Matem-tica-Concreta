@@ -111,7 +111,7 @@ class Menu:
 
     def __setima_questao(self):
         print("Resolver x³-2x²-x-200=0 para x>0 por força bruta.")
-        
+
 
 
     def __oitava_questao(self):
